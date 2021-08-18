@@ -6,10 +6,11 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/slashxu/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/slashxu/README-template?style=for-the-badge)
 
-
-<img src="screenshots/01.png" alt="img01">
-<img src="screenshots/02.png" alt="img02">
-<img src="screenshots/03.png" alt="img03">
+<h3 align="center">
+<img src="./screenshots/01.png" alt="img01" width="180px"/>
+<img src="./screenshots/02.png" alt="img02" width="180px"/>
+<img src="./screenshots/03.png" alt="img03" width="180px"/>
+</h3>
 
 > Projeto feito em React-native no curso do Sujeito programador
 
