@@ -32,7 +32,7 @@ Baixe as dependências
 npm install ou yarn install
 ```
 
-Rode o app
+Rodando o app
 ```
 npx react-native run-android
 ```
